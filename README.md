@@ -27,6 +27,4 @@ just clone this repo
 * [timanoff@ya.ru](timanoff@ya.ru)
 
 ### License
-Этот проект лицензирован под лицензией [НАЗВАНИЕ ЗДЕСЬ] - см.
-LICENSE.md файл для получения подробной информации
-или свободная лицензия.
+These project for free use. 
