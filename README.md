@@ -6,7 +6,7 @@ You can rus this programm to capture auctions result for example DATA-science
 analytics. Results are representes as *.csv files and easy to convert to Database.
 Results file names are equivalent each number of auction. Also another file names group
 represented auctions per month, like 0915.csv is equivalent september 2015 month auction per year.
-Each result file contain strings there data devided ";" per auction tables column structure.
+Each result file contain strings there data devided ";" and ordered by auction tables column structure.
 ### Before
 Before run this application you need ruby installed in your system.
 * `ruby 2.7.4`
