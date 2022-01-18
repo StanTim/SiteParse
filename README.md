@@ -3,7 +3,7 @@ Small script for parsing auction results tables from commercial auctions conros.
 
 ### Description
 You can rus this programm to capture auctions result for example DATA-science
-analitics. Results are representes as *.csv files and easy to convert to Database.
+analytics. Results are representes as *.csv files and easy to convert to Database.
 Results file names are equivalent each number of auction. Also another file names group
 represented auctions per month, like 01.09 is equivalent 01 september each month auction.
 Each result file contain strings there data devided ";" per auction tables column structure.
